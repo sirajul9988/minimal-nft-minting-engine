@@ -1,0 +1,9 @@
+{
+  "name": "minimal-nft-minting-engine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "erc721a": "^4.2.3",
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
